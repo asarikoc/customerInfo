@@ -1,0 +1,6 @@
+Veli Tuz,Ankara,0 533 1111111, 0 232 1111111
+Ali Can Kara,Adana,0 554 2222222, 0 543 3333333, 0 312 1111111
+Canan Demir,Agri,0 216 4444444
+Samet Aybaba,Antalya,0 555 5555555
+Ayşe Uzun,Artvin,0 222 2222222
+Ahmet Selim Sahin,Ankara,0 333 3333333
